@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @ProKiller4236
+- 👀 I’m interested in robotics, AI stuff and gaming
+- 🌱 I’m currently learning absolutely nothing
+- 💞️ I’m looking to collaborate on most AI projects, like Bard AI from Google, ChatGPT from OpenAI, etc.
+- 📫 How to reach me: idk
+- 😄 Pronouns: he/him
+- ⚡ Fun (actually sad) fact: I'm trying to code stuff, but I don't have time for any projects
