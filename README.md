@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ProKiller4236
+- 👋 Hi, I’m @Dellk4236
 - 👀 I’m interested in robotics, AI stuff and gaming
 - 🌱 I’m currently learning absolutely nothing
 - 💞️ I’m looking to collaborate on most AI projects, like Bard AI from Google, ChatGPT from OpenAI, etc.
